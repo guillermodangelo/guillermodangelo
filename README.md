@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Guillermo D'Angelo
-** Geographer - GIS Analyst - Data Analyst **
+*Geographer - GIS Analyst - Data Analyst*
 
 Here you'll fin some of my personal projects, which are mostly Python-related. Most of the projects I've made for third parties remain private.
 
