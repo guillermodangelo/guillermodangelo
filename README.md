@@ -2,7 +2,8 @@
 
 *Geographer - GIS Analyst - Data Analyst*
 
-Here you'll find some of my personal projects, which are mostly Python-related. The projects I've made for third parties remain private. I'm from Uruguay and work remotely as a freelancer in data-related projects.
+Here you'll find some of my personal projects, which are mostly Python-related. The projects I've made for third parties remain private.
+I live in Uruguay and I work remotely as a freelancer in data-related projects.
 
 
 ### Working in 🔧
@@ -19,7 +20,7 @@ Here you'll find some of my personal projects, which are mostly Python-related. 
 - Web apps with flask 
 
 ### Get in touch
-- [guillermodangelo.com](https://guillermodangelo.com)
+- [My personal website: guillermodangelo.com](https://guillermodangelo.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/guillermodangelo/)
 - [Upwork Profile](https://www.upwork.com/freelancers/~01dded002c76890397)
 
