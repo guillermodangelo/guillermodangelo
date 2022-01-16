@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 I'm Guillermo D'Angelo
+
 *Geographer - GIS Analyst - Data Analyst*
 
 Here you'll find some of my personal projects, which are mostly Python-related.
 
-The the projects I've made for third parties remain private.
+The projects I've made for third parties remain private.
 
 
 <!--
