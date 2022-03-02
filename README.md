@@ -17,7 +17,8 @@ I live in Uruguay and I work remotely as a freelancer in data-related projects.
 - RPA processes with Python and TagUI 🤖
 - Web scrapping with Selenium 🕸️
 - JavaScript for web-mapping 🌎
-- Web apps with flask 
+- Web apps with flask
+- Geospatial-enabled apps with Django!
 
 ### Get in touch
 - [My personal website: guillermodangelo.com](https://guillermodangelo.com)
