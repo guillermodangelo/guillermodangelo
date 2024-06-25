@@ -10,15 +10,13 @@ I live in Uruguay and I work remotely as a freelancer in data-related projects.
 
 - My master thesis in Demography
 - Some web-maps and dashboards
-- GIS and data analysis
+- Spatial data analytics
+- AIS data processing
 
 ### I’m currently learning... 🌱 
 
-- RPA processes with Python and TagUI 🤖
-- Web scrapping with Selenium 🕸️
-- JavaScript for web-mapping 🌎
-- Web apps with flask
-- Geospatial-enabled apps with Django!
+- Deep Learning with Keras
+- Geospatial-enabled apps with Django
 
 ### Get in touch
 - [My personal website: guillermodangelo.com](https://guillermodangelo.com)
